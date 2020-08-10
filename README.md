@@ -3,3 +3,9 @@ This is application developed using JavaScript XML (JSX) and React framework. Th
 
 You can access the web application by the following link:
 https://Michael780Li.github.io/react-tutorial
+
+
+This is what the web application looks like: 
+
+
+![](page_image.png)
